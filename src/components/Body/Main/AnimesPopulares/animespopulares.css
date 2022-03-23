@@ -1,0 +1,26 @@
+.episodes-container{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 896px;
+}
+
+.episodes-container h2{
+   margin-bottom: 0px;
+}
+.timer{
+    width: 50px;
+    left: 76px;
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+    padding: 5px;
+    font-size: 13px;
+    color: #fafafa;
+    font-weight: 400;
+    line-height: 16px;
+    opacity: .95;
+    background: rgba(28,28,28,.9);
+    zoom: 1;
+    display: block;
+    border-radius: 4px;
+}

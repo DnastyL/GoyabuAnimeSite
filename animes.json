@@ -1,0 +1,240 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "title": "Shingeki no Kyojin: The Final Season Part 2 ",
+      "author": "Peppo",
+      "img": "https://goyabu.com/capas/shingeki-no-kyojin-the-final-season-part-2-episodios-online.jpg",
+      "ep": 6,
+      "views": 966
+    },
+    {
+      "id": 2,
+      "title": "Karakai Jouzo no Takagi-san 3",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/karakai-jouzu-no-takagi-san-3-episodios-online.jpg",
+      "ep": 9,      
+      "views": 58
+    },
+    {
+      "id": 3,
+      "title": "Pokémon (2019)",
+      "author": "Lord",
+      "img": "https://goyabu.com/capas/pokemon-2019-episodios.jpg",
+      "ep": 12,
+      "views": 88
+    },
+    {
+      "id": 4,
+      "title": "Baraou no Souretsu Dublado",
+      "author": "Akihito",
+      "img": "https://goyabu.com/capas/baraou-no-souretsu-episodios-online.jpg",
+      "ep": 6,
+      "views": 69
+    },
+    {
+      "id": 5,
+      "title": "Delicious Party♡Precure",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/delicious-party-precure-episodios-online.jpg",
+      "ep": 1,
+      "views": 34     
+    },
+    {
+      "id": 6,
+      "title": "Sabikui Bisco",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/sabikui-bisco-episodios-online.jpg",
+      "ep": 6,
+      "views": 188
+    },
+    {
+      "id": 7,
+      "title": "Phantum End ",
+      "author": "Sakura",
+      "img": "https://goyabu.com/capas/platinum-end-episodios-online.jpg",
+      "ep": 16,
+      "views": 156
+    },
+    {
+      "id": 8,
+      "title": "Shingeki no Kyojin: The Final Season Part 2 ",
+      "author": "Peppo",
+      "img": "https://goyabu.com/capas/shingeki-no-kyojin-the-final-season-part-2-episodios-online.jpg",
+      "ep": 9,
+      "views": 323
+    },
+    {
+      "id": 9,
+      "title": "Karakai Jouzo no Takagi-san 3",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/karakai-jouzu-no-takagi-san-3-episodios-online.jpg",
+      "ep": 9,      
+      "views": 58
+    },
+    {
+      "id": 10,
+      "title": "Pokémon (2019)",
+      "author": "Lord",
+      "img": "https://goyabu.com/capas/pokemon-2019-episodios.jpg",
+      "ep": 100,
+      "views": 355
+    },
+    {
+      "id": 11,
+      "title": "Baraou no Souretsu Dublado",
+      "author": "Akihito",
+      "img": "https://goyabu.com/capas/baraou-no-souretsu-episodios-online.jpg",
+      "ep": 6,
+      "views": 69
+    },
+    {
+      "id": 12,
+      "title": "Delicious Party♡Precure",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/delicious-party-precure-episodios-online.jpg",
+      "ep": 1,
+      "views": 34     
+    },
+    {
+      "id": 13,
+      "title": "Sabikui Bisco",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/sabikui-bisco-episodios-online.jpg",
+      "ep": 1,
+      "views": 233
+    },
+    {
+      "id": 14,
+      "title": "Phantum End ",
+      "author": "Sakura",
+      "img": "https://goyabu.com/capas/platinum-end-episodios-online.jpg",
+      "ep": 16,
+      "views": 156
+    },
+    {
+      "id": 15,
+      "title": "Shingeki no Kyojin: The Final Season Part 2 ",
+      "author": "Peppo",
+      "img": "https://goyabu.com/capas/shingeki-no-kyojin-the-final-season-part-2-episodios-online.jpg",
+      "ep": 12,
+      "views": 1124
+    },
+    {
+      "id": 16,
+      "title": "Karakai Jouzo no Takagi-san 3",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/karakai-jouzu-no-takagi-san-3-episodios-online.jpg",
+      "ep": 9,      
+      "views": 58
+    },
+    {
+      "id": 17,
+      "title": "Pokémon (2019)",
+      "author": "Lord",
+      "img": "https://goyabu.com/capas/pokemon-2019-episodios.jpg",
+      "ep": 12,
+      "views": 88
+    },
+    {
+      "id": 18,
+      "title": "Baraou no Souretsu Dublado",
+      "author": "Akihito",
+      "img": "https://goyabu.com/capas/baraou-no-souretsu-episodios-online.jpg",
+      "ep": 6,
+      "views": 69
+    },
+    {
+      "id": 19,
+      "title": "Delicious Party♡Precure",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/delicious-party-precure-episodios-online.jpg",
+      "ep": 1,
+      "views": 34     
+    },
+    {
+      "id": 20,
+      "title": "Sabikui Bisco",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/sabikui-bisco-episodios-online.jpg",
+      "ep": 12,
+      "views": 45
+    },
+    {
+      "id": 21,
+      "title": "Phantum End ",
+      "author": "Sakura",
+      "img": "https://goyabu.com/capas/platinum-end-episodios-online.jpg",
+      "ep": 16,
+      "views": 156
+    },
+    {
+      "id": 22,
+      "title": "Delicious Party♡Precure",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/delicious-party-precure-episodios-online.jpg",
+      "ep": 1,
+      "views": 34     
+    },
+    {
+      "id": 23,
+      "title": "Sabikui Bisco",
+      "author": "Sanjo",
+      "img": "https://goyabu.com/capas/sabikui-bisco-episodios-online.jpg",
+      "ep": 2,
+      "views": 33
+    },
+    {
+      "id": 24,
+      "title": "Phantum End ",
+      "author": "Sakura",
+      "img": "https://goyabu.com/capas/platinum-end-episodios-online.jpg",
+      "ep": 16,
+      "views": 156
+    }
+  ],
+  "animesPopulares": [
+    {
+      "id": 1,
+      "title": "Bleach",
+      "img": "https://goyabu.com/capas/bleach-episodios.jpg",
+      "views": 60969,
+      "animeId": 1
+    },
+    {
+      "id": 2,
+      "title": "Naruto Classico Dublado",
+      "img": "https://goyabu.com/capas/naruto-episodios.jpg",
+      "views": 44762,
+      "animeId": 2
+    },
+    {
+      "id": 3,
+      "title": "Hunter X Hunter 2011",
+      "img": "https://goyabu.com/capas/hunter-x-hunter-2011-episodios.jpg",
+      "views": 36587,
+      "animeId": 3
+    },
+    {
+      "id": 4,
+      "title": "Dragon Ball",
+      "img": "https://goyabu.com/capas/dragon-ball-episodios.jpg",
+      "views": 88989,
+      "animeId": 4
+    },
+    {
+      "id": 5,
+      "title": "Kimetsu no Yaiba ",
+      "img": "https://goyabu.com/capas/kimetsu-no-yaiba-episodios.jpg",
+      "views": 89329,
+      "animeId": 5
+    },
+    {
+      "id": 6,
+      "title": "Fairy Tail",
+      "img": "https://goyabu.com/capas/fairy-tail-episodios.jpg",
+      "views": 33941,
+      "animeId": 6
+    }
+  ]
+}

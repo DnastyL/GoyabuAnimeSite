@@ -1,0 +1,42 @@
+main{
+    width: 70%;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.index-size{
+  max-width: 1310px;
+}
+
+.title-bar{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.ui-anime-main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.title-bar, .ui-anime-main{
+    width: 100%;
+}
+
+.title-bar h2{
+    margin: 0;
+}
+
+.span-text{
+    display: flex;
+    align-items: center;
+    color: #808080;
+    font-size: 14px;
+}
+#icon-arrow{
+    font-size: 24px;
+}
+
+

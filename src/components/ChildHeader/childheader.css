@@ -1,0 +1,51 @@
+.ui-title{
+    margin: auto;
+    max-width: 1310px;
+    padding: 10px;
+}
+
+.ui-title h1{
+    font-size: 14px;
+    margin: 14px 0;
+    font-weight: normal;
+}
+
+.ui-index-discord{
+    max-width: 1110px;
+    text-align: center;
+    background-color: brown;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.ui-index-discord p{
+    font-size: 14px;
+    padding: 10px 0;
+}
+
+.main-child-header{
+    display: flex;
+    flex-wrap: wrap;
+    width: 310px;
+    margin: 0;
+}
+
+.main-titles h2{
+    font-size: 22px;
+    margin-bottom: 0;
+    letter-spacing: -.2px;
+}
+
+.main-titles span{
+    font-size: 14px;
+}
+.ui-sidebar{
+    width: 350px;
+    height: 20px;
+    border-radius: 4px;
+    background-color: #1c1c1c;
+}
+.box-bar{
+    padding-right: 30px;
+    margin-bottom: 10px;
+}

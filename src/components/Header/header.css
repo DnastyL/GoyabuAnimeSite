@@ -1,0 +1,36 @@
+header{
+    max-width: 1310px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.form_menu{
+    display: flex;
+    margin-top: 18px;
+    align-items: center;
+    width: 190px;
+}
+
+input{
+    width: 165px;
+    padding: 10px;
+    border: 1px solid #333333;
+    background-color: #333333;
+    border-radius:4px;
+}
+
+.button{
+    border: none;
+    position: relative;
+    right: 40px;
+    background-color: #333333;
+    cursor: pointer;
+}
+
+#header-span img{
+    height: 30px;
+    margin: 15px 0 0 15px;
+    cursor: pointer;
+}

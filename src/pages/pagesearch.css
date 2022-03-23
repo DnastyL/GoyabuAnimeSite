@@ -1,0 +1,18 @@
+.page-search-header{
+    font-size: 14px;
+    margin: 14px 0;
+    height: 19px;
+}
+
+.main{
+    width: 70%;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.inicio{
+    color: #808080;
+    text-decoration: none;
+}
