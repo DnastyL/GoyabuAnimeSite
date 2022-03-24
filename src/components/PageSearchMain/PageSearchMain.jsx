@@ -3,7 +3,7 @@ export const PageSearchMain = (anime) => {
         <div className="anime-episode">
              <div className="anime-thumb">
         <div className="clip">
-          <img src={anime.img} alt={anime.key} />
+          <img src={anime.img} alt={`Animes images`}/>
         </div>
         <span className="overlay"></span>
       </div>

@@ -1,13 +1,22 @@
 import { PageSearchMain } from "../components/PageSearchMain/PageSearchMain";
 import { Link, useSearchParams } from "react-router-dom";
+import { useState, useEffect } from "react";
 import "./pagesearch.css";
 import { AnimesDestaques } from "../components/Body/AnimesDestaques/AnimesDestaques";
+import axios from "axios";
 
-export const PageSearch = (prop) => {
+export const PageSearch = () => {
   const [searchParams] = useSearchParams();
   const parametro = searchParams.get("anime").toLowerCase();
 
-  // const busca = animes.filter((anime) => anime.includes(parametro))
+  const [animes, setAnimes] = useState([]);
+  useEffect(() => {
+    axios
+      .get("http://localhost:5001/animes")
+      .then((response) => {
+        setAnimes(response.data);
+      });
+  }, []);
 
   return (
     <div className="main-index">
@@ -22,7 +31,7 @@ export const PageSearch = (prop) => {
             <span>Você pesquisou por: {parametro}</span>
           </h1>
           <div className="ui-anime-main">
-            {prop.animes
+            {animes
               .filter((t) => t.title.toLowerCase().includes(parametro))
               .map((anime) => (
                 <PageSearchMain

@@ -21,6 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "backend": "json-server --watch animes.json --port 5000 ",
+    "animes": "json-server --watch allAnimes.json --port 5001 ",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
